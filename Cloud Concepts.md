@@ -83,3 +83,13 @@
 - Consumption pricing model works especially well the Azure services that are used in the solution are consumption-based too.
 - Complexity & operation cost - Consumption model relies on accurate measurement of usage and on splitting this usage by tenant, this can be challenging, especially in a solution with many distributed components. You need to keep detailed consumption records for billing and auditing as well as providing methods for customer to get access to their consumption data.
 - Risks: it can motivate customers to reduce their usage of your system in order to reduce their costs. Also, it results in unpredictable revenue streams.
+
+## Serverless computing
+- Enables developers to build applications faster by eliminating the need for them to manage infrastructure.
+- With SC, the cloud service provider automatically provisions, scales & manages the infrastructure required to run the code.
+- servers are still running the code, the name serverless comes from the fact that the tasks associated with infrastructure provisioning & management are invisible to the developer.
+#### Advantages
+1. No infrastructure management - using fully managed services enables developers to avoid administrative tasks & focus on core business logic. With a serverless platform you simply deploy code and it runs with high availability.
+2. Dynamic scalability - infrastructure dynamically scales up and down within seconds to match the demands of any workload.
+3. Faster time to market- SC reduces operations dependencies on each development cycle, increasing development teams' agility to deliver more functionality in less time.
+4. More efficient use of resources - shifting to serverless technologies helps reduce TCO & reallocates resources to accelerate the pace of innovation.
