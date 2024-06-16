@@ -25,14 +25,30 @@
 - Here all hardware, software & other supporting infrastructure is owned and managed by the cloud provider.
 - Users can access these services & manage accounts using a web browser.
 - ex: Azure
+#### Advantage: 
+1. Lower costs - no need to purchase hardware, software & pay only for the service you use.
+2. No maintenance - service provider provides maintenance.
+3. Near-unlimited scalability - on-demand resources are available to meet business needs.
+4. High reliability - a vast network ensures against failure.
 ### 2. Private cloud
 - refers to cloud computing resources used exclusively by a single business or organization.
 - Private cloud can be located on company's onsite data center or they can pay third-party service providers to host their private cloud.
 - here services & infrastructure are maintained on a private network.
+- often used by government agencies, financial institutions & business-critical operations seeking enhanced control over their environment.
+#### Advantage:
+1. More flexibility - organization can customize its cloud env to meet specific business needs.
+2. More control - resources are not shared with others, so higher levels of control & privacy are possible.
+3. More scalability - more scalable compared to on-premise infrastructure.
 ### 3. Hybrid cloud
 - Combination of private & public clouds bound together by technology that allows data & applications to be shared between them.
 - By allowing data & applications to move between private & public clouds, hybrid cloud gives businesses greater flexibility and more deployment options.
 - Helps optimize existing infrastructure, security and compliance.
+#### Advantage: 
+- Organization can
+1. Control - maintain a private infrastructure for sensitive assets or workloads that require low latency.
+2. Flexibility - take advantage of additional resources in public cloud when you need them.
+3. Cost-effectiveness - with ability to scale to public cloud,pay for the extra computing power only when needed.
+4. Ease - transitioning is not overwhelming because users can migrate gradually - phasing in workloads over time.
 
 ## Types of Cloud Services
 - Also called cloud computing stack because they are build on top of one another.
@@ -56,4 +72,4 @@
 
 - The workload responsibility vary depending on whether the workload is hosted on IaaS,Saas,PaaS or in an on-premises datacenter.
 - for all cloud deployment types, user own their data & identities. Regardless of the type of deployment users always retain this responsibility: Data, Endpoints, Account, Access management.
-- 
+
