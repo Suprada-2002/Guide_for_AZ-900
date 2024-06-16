@@ -33,3 +33,20 @@
 - Combination of private & public clouds bound together by technology that allows data & applications to be shared between them.
 - By allowing data & applications to move between private & public clouds, hybrid cloud gives businesses greater flexibility and more deployment options.
 - Helps optimize existing infrastructure, security and compliance.
+
+## Types of Cloud Services
+- Also called cloud computing stack because they are build on top of one another.
+### 1. Iaas
+- most basic category of cloud computing.
+- you rent IT infrastructure from a cloud provider on pay-as-you-go basis.
+### 2. PaaS
+- refers to cloud computing service that supply on on-demand env for developing, testing, delivering & managing software.
+- pass is designed to make it easier for developers to quickly create web or mobile apps without worrying about the underlying infrastructure of server storage, network & db needed for development.
+### 3. SaaS
+- Method of delivering software applications over internet on demand & typically on subscription basis.
+- cloud provider host & manage underlying infrastructure, handle any maintenance like software upgrades & patching.
+- Users connect to applications over internet, usually web browsers on their PC,table or phone.
+### 4. Serverless Computing
+- overlapping with PaaS, it focuses on building app functionality without spending time continuously managing the servers & infrastructure required to do so.
+- cloud provider handles setup, capacity planning, and server management for you.
+- highly scalable & event-driven, only using resources when a specific function or trigger occurs.
