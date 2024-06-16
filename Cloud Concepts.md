@@ -74,3 +74,12 @@
 - for all cloud deployment types, user own their data & identities. Regardless of the type of deployment users always retain this responsibility: Data, Endpoints, Account, Access management.
 
 ![Screenshot 2024-06-16 7 09 00 PM](https://github.com/Suprada-2002/Guide_for_AZ-900/assets/87217681/26698663-0186-42bb-859d-22b2001fc472)
+
+## Consumption-based Pricing model
+- referred to as pay-as-you-go or PAYG
+- as the use of your service increase, your revenue increase.
+- when you measure consumption,consider simple factors like the amount of data being added to the solution
+- Benefit: From customer's perspective, there is minimal upfront investment that's required to use your solution so this model has a low barrier to entry. From your perspective as the service operator, your hosting and management costs increase as your customer's usage and your revenue increase.
+- Consumption pricing model works especially well the Azure services that are used in the solution are consumption-based too.
+- Complexity & operation cost - Consumption model relies on accurate measurement of usage and on splitting this usage by tenant, this can be challenging, especially in a solution with many distributed components. You need to keep detailed consumption records for billing and auditing as well as providing methods for customer to get access to their consumption data.
+- Risks: it can motivate customers to reduce their usage of your system in order to reduce their costs. Also, it results in unpredictable revenue streams.
