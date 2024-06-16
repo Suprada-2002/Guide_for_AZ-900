@@ -53,3 +53,7 @@
 
 ## Shared Responsibility Model
 ![Screenshot 2024-06-16 4 55 37 PM](https://github.com/Suprada-2002/Guide_for_AZ-900/assets/87217681/b825c80b-bcd5-4610-b2eb-5beb4b0ac77c)
+
+- The workload responsibility vary depending on whether the workload is hosted on IaaS,Saas,PaaS or in an on-premises datacenter.
+- for all cloud deployment types, user own their data & identities. Regardless of the type of deployment users always retain this responsibility: Data, Endpoints, Account, Access management.
+- 
