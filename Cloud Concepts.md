@@ -50,3 +50,6 @@
 - overlapping with PaaS, it focuses on building app functionality without spending time continuously managing the servers & infrastructure required to do so.
 - cloud provider handles setup, capacity planning, and server management for you.
 - highly scalable & event-driven, only using resources when a specific function or trigger occurs.
+
+## Shared Responsibility Model
+![Screenshot 2024-06-16 4 55 37 PM](https://github.com/Suprada-2002/Guide_for_AZ-900/assets/87217681/b825c80b-bcd5-4610-b2eb-5beb4b0ac77c)
