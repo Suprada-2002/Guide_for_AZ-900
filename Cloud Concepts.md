@@ -17,4 +17,19 @@
 6. Reliability
 - Cloud computing makes data backup, disaster recovery & business continuity easier and less expensive because data can be mirrored at multiple redundant sites on cloud provider's network.
 7. Security
-- Cloud offers a broad set of policies,technologies & control to strengthen security posture.
+- Cloud offers a broad set of policies, technologies & controls to strengthen security posture.
+
+## Types of cloud computing
+### 1. Public cloud
+- They are owned by a third-party cloud server provider that delivers internet computing services.
+- Here all hardware, software & other supporting infrastructure is owned and managed by the cloud provider.
+- Users can access these services & manage accounts using a web browser.
+- ex: Azure
+### 2. Private cloud
+- refers to cloud computing resources used exclusively by a single business or organization.
+- Private cloud can be located on company's onsite data center or they can pay third-party service providers to host their private cloud.
+- here services & infrastructure are maintained on a private network.
+### 3. Hybrid cloud
+- Combination of private & public clouds bound together by technology that allows data & applications to be shared between them.
+- By allowing data & applications to move between private & public clouds, hybrid cloud gives businesses greater flexibility and more deployment options.
+- Helps optimize existing infrastructure, security and compliance.
