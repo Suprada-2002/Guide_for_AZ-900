@@ -73,3 +73,4 @@
 - The workload responsibility vary depending on whether the workload is hosted on IaaS,Saas,PaaS or in an on-premises datacenter.
 - for all cloud deployment types, user own their data & identities. Regardless of the type of deployment users always retain this responsibility: Data, Endpoints, Account, Access management.
 
+![Screenshot 2024-06-16 7 09 00 PM](https://github.com/Suprada-2002/Guide_for_AZ-900/assets/87217681/26698663-0186-42bb-859d-22b2001fc472)
